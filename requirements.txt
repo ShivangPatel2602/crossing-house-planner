@@ -1,0 +1,6 @@
+openpyxl
+pulp==2.9.0
+highspy
+fastapi
+uvicorn[standard]
+python-multipart
